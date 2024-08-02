@@ -3,6 +3,10 @@ Telefonkönyv - Programozás Alapjai 2 Nagyházi
 this program was created as an assignment in my second semester of university.
 it is a simple phonebook application, created in C++.
 included are tests using a light GTest framework provided to us by the university for the assignment.
+
+**disclaimer**
+no build file included in this repo, for documentation purpuses only.
+
 below is the original user documentation written in hungarian:
 
 
