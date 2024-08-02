@@ -1,0 +1,19 @@
+Kovacs	Erika	+36302098765	+36703091827	6789	Debrecen	Kossuth ter	10
+Kovacs	Erika	+36302098765	+36703091827	6789	Debrecen	Kossuth ter	10
+Szabo	Mate	+36702134789	+36701029384	2468	Szeged	Petofi utca	15
+Toth	Zsofia	+36703457890	+36702749563	3698	Pecs	Szechenyi ter	20
+Kis	Levente	+36209087654	+36702190384	7854	Gyor	Rakoczi ut	25
+Balogh	Reka	+36701234568	+36302147890	1111	Szombathely	Petofi ter	30
+Nagy	Andrea	+36301293847	+36704278190	3333	Budapest	Rozsa utca	40
+Szabo	Tamas	+36703028374	+36201927384	4444	Szeged	Szabadka ter	45
+Toth	Zoltan	+36309018475	+36708039274	6666	Gyor	Kossuth ter	55
+Nemeth	Kinga	+36703218947	+36301927385	7777	Debrecen	Bethlen utca	60
+Balog	Miklos	+36709281038	+36301927384	8888	Budapest	Rakoczi ter	65
+Takacs	Julia	+36201928374	+36709012345	9999	Szombathely	Ady utca	70
+Simon	David	+36301828374	+36708192384	1111	Miskolc	Petofi ter	75
+Varga	Anita	+36703029384	+36201927384	2222	Szeged	Szechenyi utca	80
+Kovacs	Boglarka	+36309018476	+36709123984	4444	Budapest	Rakospatak utca	90
+Toth	Gabor	+36703218948	+36201928349	5555	Szombathely	Szent Istvan ter	95
+Balogh	Lilla	+36709281039	+36301927359	6666	Debrecen	Rozsa utca	100
+Nagy	Anna	+36201928376	+36709018475	7777	Budapest	Petofi ter	105
+Kiss	Bence	+36301829374	+36708192375	8888	Miskolc	Kossuth utca	110
